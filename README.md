@@ -49,7 +49,7 @@ Configuration
 User Agent
 Update the USER_AGENT setting in settings.py to mimic a browser and avoid detection:
 
-python
+
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 Download Delay
 Set a delay between requests to prevent being flagged as a bot:
